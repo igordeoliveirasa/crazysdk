@@ -1,4 +1,4 @@
 crazysdk
 ========
 
-A python sdk including multiple utilities.
+A python SDK including multiple utilities.
